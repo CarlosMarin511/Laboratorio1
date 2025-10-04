@@ -56,4 +56,5 @@ src/main/java/yugioh/
 ## 👤 Autores
 
 Carlos Mario Marín Duque
+Andry Liseth Garcia
 
